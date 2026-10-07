@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/Updated-October_2026-orange.svg" alt="Last Updated"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -34,6 +35,8 @@ A curated, production-oriented index of **Commercial SaaS NLP Platforms** and **
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer & Best Practices](#%EF%B8%8F-disclaimer--best-practices)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -144,7 +147,24 @@ Contributions are welcome! Please follow these simple guidelines:
 
 ---
 
+## 💖 Support & Community
+
+Thank you for exploring the Natural Language Processing ecosystem! If you find this directory helpful for your projects, research, or work:
+
+- ⭐ **Star** this repository to show your support!
+- 🍴 **Fork** it to keep a personal reference or contribute updates.
+- 📢 **Share** it with fellow AI engineers, data scientists, and researchers.
+- ☕ **Sponsor**: Support ongoing updates and maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Natural-Language-Processing-NLP&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Natural-Language-Processing-NLP&type=date&legend=top-left)
+
+---
+
 <p align="center">
   <b>Maintained for NLP Engineers, Data Scientists, and Enterprise AI Architects.</b><br/>
-  ⭐ Star this repository if you find it helpful!
+  Made with ❤️ for the Open-Source AI Community.
 </p>
