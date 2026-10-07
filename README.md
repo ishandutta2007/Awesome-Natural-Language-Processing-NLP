@@ -69,9 +69,9 @@ The table below catalogs leading commercial NLP APIs sorted by **Company Size / 
 
 ## ⚡ Open-Source GitHub Projects
 
-The table below highlights top open-source NLP libraries, frameworks, and engines sorted by **GitHub Stars** (descending).
+The table below highlights top open-source NLP libraries, frameworks, and engines sorted by **GitHub_Stars** (descending).
 
-| Repository & Link 📦 | GitHub Star Badge ⭐ | License 📜 | Description & Primary Use Case 🛠️ |
+| Repository & Link 📦 | GitHub Stars_Badge ⭐ | License 📜 | Description & Primary Use Case 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Ollama](https://github.com/ollama/ollama)** | <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Ollama Stars"/></a> | MIT | Local LLM runner and orchestration engine for Llama 3, Mistral, and custom GGUF models. |
 | **[Hugging Face Transformers](https://github.com/huggingface/transformers)** | <a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white" alt="Transformers Stars"/></a> | Apache-2.0 | De facto standard repository for state-of-the-art pre-trained Transformer architectures (PyTorch/TF/JAX). |
@@ -133,8 +133,8 @@ You can use evaluation frameworks like <b>RAGAS</b> to measure context precision
 Contributions are welcome! Please follow these simple guidelines:
 
 1. Fork the repository.
-2. Add your entry into the appropriate table adhering to the established sorting rules (SaaS by Valuation, Open-Source by GitHub Stars).
-3. Ensure exact pricing/free tier details or star badge links (`/stargazers`) are included.
+2. Add your entry into the appropriate table adhering to the established sorting rules (SaaS by Valuation, Open-Source by GitHub_Stars).
+3. Ensure exact pricing/free tier details or Stars_Badge links (`/stargazers`) are included.
 4. Submit a Pull Request with a short summary of changes.
 
 ---
